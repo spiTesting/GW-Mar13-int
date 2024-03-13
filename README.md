@@ -12,7 +12,7 @@ For detailed documentation on the Decoupled Kit Starters, visit [the Decoupled K
 
 For more information on using the starter on Pantheon Front-End Sites, visit [the Pantheon.io platform documentation](https://docs.pantheon.io/guides/decoupled/).
 
-## Getting Started
+## Getting Started ##
 
 The Gatsby WordPress starter requires Node.js and is built and tested on the LTS version which can be found on the [Node.js downloads page](https://nodejs.org/en/download).
 
