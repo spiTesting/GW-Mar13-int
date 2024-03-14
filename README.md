@@ -8,6 +8,7 @@
 	</a>
 </div>
 
+
 For detailed documentation on the Decoupled Kit Starters, visit [the Decoupled Kit developer documentation](https://decoupledkit.pantheon.io).
 
 For more information on using the starter on Pantheon Front-End Sites, visit [the Pantheon.io platform documentation](https://docs.pantheon.io/guides/decoupled/).
